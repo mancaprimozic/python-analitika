@@ -1,0 +1,9 @@
+Filename: /home/manca/analitika-podatkov/working-directory/teden_01/memscript.py
+
+Line #    Mem usage    Increment   Line Contents
+================================================
+     1     81.6 MiB     81.6 MiB   def my_func():
+     2     81.6 MiB      0.0 MiB       a = [1]*10000
+     3     81.6 MiB      0.0 MiB       b = [2]* 9000
+     4     81.6 MiB      0.0 MiB       del b
+     5     81.6 MiB      0.0 MiB       return a
